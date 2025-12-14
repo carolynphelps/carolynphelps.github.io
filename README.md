@@ -1,2 +1,1 @@
-index.html
-# carolynphelps.github.io
+# index.html
